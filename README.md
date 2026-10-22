@@ -6,7 +6,7 @@
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?logo=sympy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
-Coursework for *Cryptography*, Universidad Nacional de Colombia.
+Coursework for *Cryptography*, Universidad Nacional de Colombia (team project).
 
 ## Problem
 
@@ -46,6 +46,7 @@ pip install sympy numpy jupyter
 jupyter notebook Criptografia.ipynb
 ```
 
-## Author
+## Team
 
-**Laura Nicole Bermúdez Santa**, Universidad Nacional de Colombia · [GitHub](https://github.com/bermudez05)
+- **Laura Nicole Bermúdez Santa** · [@bermudez05](https://github.com/bermudez05)
+- **Nicolás Álvarez Triana** · [@niclasDc](https://github.com/niclasDc)
